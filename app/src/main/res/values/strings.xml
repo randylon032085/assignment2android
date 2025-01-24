@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ASCII Apps</string>
+    <string name="information">ASCII, an acronym for American Standard Code for Information Interchange, is a character encoding standard for electronic communication. ASCII codes represent text in computers, telecommunications equipment, and other devices.</string>
+    <string name="detailsOfGames">The game is random character you will received a different character and you will have to answer the ASCII code. You have only three lives so be careful for making an answer.</string>
+    <string name="creator">CreatedBy@Randylon</string>
+    <string name="character1">CHARACTER:</string>
+    <string name="character2">CHARACTER:</string>
+    <string name="code">ASCII Code</string>
+    <string name="code2">ASCII</string>
+    <string name="submit_button">Submit</string>
+    <string name="PlayAgainButton">Play again</string>
+</resources>
